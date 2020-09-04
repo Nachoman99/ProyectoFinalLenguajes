@@ -20,7 +20,7 @@
             <br />
             <br />
             <asp:Button ID="btSign" runat="server" Text="Iniciar Sesión Pruebasssssssss" />
-&nbsp;O
+&nbsp;Odfdf
             <asp:Button ID="btRegist" runat="server" Text="Registrarse" />
         </div>
     </form>
