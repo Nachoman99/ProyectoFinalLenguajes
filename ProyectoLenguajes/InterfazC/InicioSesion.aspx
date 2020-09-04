@@ -19,7 +19,7 @@
             <asp:TextBox ID="tbPass" runat="server" Width="180px"></asp:TextBox>
             <br />
             <br />
-            <asp:Button ID="btSign" runat="server" Text="Iniciar Sesión" />
+            <asp:Button ID="btSign" runat="server" Text="Iniciar Sesión Pruebasssssssss" />
 &nbsp;O
             <asp:Button ID="btRegist" runat="server" Text="Registrarse" />
         </div>
