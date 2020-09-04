@@ -21,7 +21,7 @@
             <br />
             <asp:Button ID="btSign" runat="server" Text="Iniciar Sesión Pruebasssssssss" />
 &nbsp;Odfdf
-            <asp:Button ID="btRegist" runat="server" Text="Registrarse" />
+            <asp:Button ID="btRegist" runat="server" Text="Prueba para entender como usar esto!!!!!!!" />
         </div>
     </form>
 </body>
